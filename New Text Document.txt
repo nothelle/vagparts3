@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>vagparts.co.nz | Coming Soon</title>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="vendor/bootstrap/css/bootstrap.min.css">
+<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="fonts/font-awesome-4.7.0/css/font-awesome.min.css">
+<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="fonts/iconic/css/material-design-iconic-font.min.css">
+	<link rel="stylesheet" type="text/css" href="vendor/animate/animate.css">
+	<link rel="stylesheet" type="text/css" href="css/util.css">
+	<link rel="stylesheet" type="text/css" href="css/main.css">
+</head>
+<body>
+	
+	
+	<div class="size1 flex-w flex-col-c-sb p-l-15 p-r-15 p-b-35 respon1" style="background: yellowgreen;">
+		<span></span>
+		<div class="flex-col-c p-b-50">
+			<h3 class="txt-center p-b-10">
+				<img src="./images/logo.png" style="max-width: 90%; margin-left: 10%">
+			</h3>
+
+			<p class="txt-center l1-txt1 p-b-60" style="font-size: 16px; color: #111; font-weight: 500; letter-spacing: .2px; margin-top: -12%">
+        		Coming early January 2021
+      		</p>
+
+      	<p class="l1-txt2 text-left p-b-35" style="max-width: 800px; color: #111; font-family: Inter; font-weight: 600; font-size: 16px; line-height: 1.8;">
+         YOU STUMBLED ACROSS OUR NEW SITE WHICH WILL BE UP AND RUNNING EARLY JANUARY 2021
+      </p>
+
+      	<p class="l1-txt2 text-center p-b-35" style="max-width: 800px; color: #111; font-family: Inter; font-weight: 600; font-size: 16px; line-height: 1.8;">
+
+ 
+
+Maybe you came here from our old store hosted on Allgoods Marketplace where we have been trading since early 2018. Allgoods have announced their closure January 2021 but VAGPARTS will be expanding
+	
+
+ 
+      </p>
+
+      <p class="l1-txt2 text-left p-b-35" style="max-width: 800px; color: #111; font-family: Inter; font-weight: 600; font-size: 16px; line-height: 1.8;">
+        Until the new store is running please bookmark this address for any of your future needs
+      </p>
+
+      <p class="l1-txt2 text-left p-b-35" style="max-width: 800px; color: #111; font-family: Inter; font-weight: 600; font-size: 16px; line-height: 1.8;">
+         For sales or enquiries, now or later, please do not hesitate to send us an email
+      </p>
+
+    <!--   <p class="l1-txt2 text-left p-b-35" style="max-width: 800px; color: #111; font-family: Inter; font-weight: 600; font-size: 16px; line-height: 1.8;">
+        In 2018, vagparts joined the AllGoods marketplace as a seller. An announcement was made in late 2020 for the AllGoods marketplace to stop trading on 14/01/2021.
+      </p>
+      
+      <p class="l1-txt2 text-left p-b-35" style="max-width: 800px; color: #111; font-family: Inter; font-weight: 600; font-size: 16px; line-height: 1.8;">vagparts.co.nz are expanding and creating a dedicated store, available from early January 2021.
+      </p>
+
+      <p class="l1-txt2 text-left p-b-35" style="font-size: 14px;  color: #111; font-family: Inter; font-weight: 500; max-width: 800px; line-height: 1.8;">
+        For sales or enquiries, now or in the future, please do not hesitate to send us an email.
+      </p> -->
+
+
+      <a href="mailto:sales@vagparts.co.nz" class="flex-c-m s1-txt2 size3 how-btn1" style="font-family: Inter; font-style: italic; font-size: 14px">
+          sales@vagparts.co.nz
+      </a>
+
+      <p class="l1-txt2 p-b-35 p-t-50" style="font-size: 14px; max-width: 800px;  color: #111; font-family: Inter; line-height: 1.8;">
+        <strong>The Team at vagparts.co.nz</strong>
+      </p>
+		</div>
+		
+	</div>
+	
+
+<!--===============================================================================================-->	
+	<script src="vendor/jquery/jquery-3.2.1.min.js"></script>
+<!--===============================================================================================-->
+	<script src="vendor/bootstrap/js/popper.js"></script>
+	<script src="vendor/bootstrap/js/bootstrap.min.js"></script>
+<!--===============================================================================================-->
+	<script src="vendor/select2/select2.min.js"></script>
+<!--===============================================================================================-->
+	<script src="vendor/countdowntime/moment.min.js"></script>
+	<script src="vendor/countdowntime/moment-timezone.min.js"></script>
+	<script src="vendor/countdowntime/moment-timezone-with-data.min.js"></script>
+	<script src="vendor/countdowntime/countdowntime.js"></script>
+<!--===============================================================================================-->
+	<script src="vendor/tilt/tilt.jquery.min.js"></script>
+	<script >
+		$('.js-tilt').tilt({
+			scale: 1.1
+		})
+	</script>
+<!--===============================================================================================-->
+	<script src="js/main.js"></script>
+
+</body>
+</html>
